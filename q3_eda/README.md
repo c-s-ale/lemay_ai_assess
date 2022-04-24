@@ -2,7 +2,7 @@
 
 To view this notebook with the included Plotly diagrams, you can follow this link:
 
-https://nbviewer.org/github/c-s-ale/lemay_ai_assess/blob/master/q3_eda/eda_notebook.ipynb
+https://nbviewer.org/github/c-s-ale/lemay_ai_assessment/blob/master/q3_eda/eda_notebook.ipynb
 
 To run this notebook, please ensure you've installed all the requirements as outlined in the `requirements.txt`. (You can do so by running `pip3 install -r requirements.txt` from this directory!)
 
